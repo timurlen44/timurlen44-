@@ -8,7 +8,7 @@
 ## **Contact**
 
 
-
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Dn2VVdUg)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-emin-tan%C4%B1k-4ba683169/
 )
 <a href="mailto:muhammedemintanik63@gmail.com">
