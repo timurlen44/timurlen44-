@@ -11,3 +11,6 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-emin-tan%C4%B1k-4ba683169/
 )
+<a href="mailto:muhammedemintanik63@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-c14321?logo=Gmail&logoColor=red&style=social">
+</a>
